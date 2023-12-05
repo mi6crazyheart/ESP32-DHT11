@@ -1,0 +1,5 @@
+esp-idf-lib/
+build/
+.vscode/
+.devcontainer/
+sdkconfig
